@@ -12,6 +12,9 @@
 }
 
 @media screen and (min-width: 479px) {
+    body {
+        background-color: yellow;
+    }
     .quadrato {
         /* display: inline-block; */
         float: left;
